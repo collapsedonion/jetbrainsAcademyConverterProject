@@ -1,0 +1,17 @@
+.title{
+    font-size: xx-large;
+    font-family: Arial;
+}
+
+textarea{
+    width: 80%;
+    height: 400px;
+    font-size: x-large;
+}
+
+button{
+    height: 30px;
+    font-size: medium;
+    font-family: Arial;
+    background-color: #E9A75F;
+}
